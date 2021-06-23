@@ -2,7 +2,7 @@ package Assignment;
 
 import java.util.Random;
 
-public class Snake_And_Ladder_UC3 {
+public class SnakeAndLadderUC3 {
 	public static void main(String args[]) {
 		// adding welcome note
 		System.out.println("WELCOME TO SNAKE & LADDER GAME");
